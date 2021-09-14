@@ -1,0 +1,15 @@
+{
+    "name": "redis",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "redis": "echo\"Error: no test specified\" && exit1"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "promise-redis": "0.0.5"
+    }
+}
